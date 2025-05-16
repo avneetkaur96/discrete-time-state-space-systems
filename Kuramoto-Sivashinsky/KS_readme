@@ -1,3 +1,5 @@
 This folder contains the data generation code for the Kuramoto-Sivashinsky equation.
 Galerkin approximation is used to convert KS partial differential equation into a system of ordinary differential equations. 
 Forward Euler method is used to discretize the system of ODEs. 
+Please run KS_data.ipynb to generate data
+Since the data file is large, Github won't let me upload it.
